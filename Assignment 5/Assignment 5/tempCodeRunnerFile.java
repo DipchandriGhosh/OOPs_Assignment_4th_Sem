@@ -1,0 +1,1 @@
+Multiple inheritance does not support in java – justify.
